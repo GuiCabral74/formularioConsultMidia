@@ -2,7 +2,7 @@
 
 Projeto criado com [Create React App](https://github.com/facebook/create-react-app) para processo seletivo da empresa Consult Midia. 
 
-##Foram utilizadas as seguintes tecnologias:
+## Foram utilizadas as seguintes tecnologias:
 - Yup
 - React Hook Form
 - Styled Components
